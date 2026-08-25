@@ -13,4 +13,4 @@
 * Git
 * Figma
 
-https://github.com/vitaliy01101-beep/ono-tebe-nado
+https://github.com/vitaliy01101-beep/ono-tebe-nado-ad
